@@ -13,4 +13,9 @@ class MathTest {
     fun multiplyTest() {
         assertEquals(6,3 + 3)
     }
+
+    @Test
+    fun subtractTest() {
+        assertEquals(4,2 + 2)
+    }
 }
